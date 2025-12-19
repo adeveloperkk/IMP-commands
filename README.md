@@ -174,6 +174,3 @@ If this repository helped you:
 *Building scalable digital solutions for India 🇮🇳*
 
 ```
-
----
-```
